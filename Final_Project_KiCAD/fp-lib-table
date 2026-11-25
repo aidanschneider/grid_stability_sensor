@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ferritebead") (type "KiCad") (uri "/Users/aidanschneider_1/Documents/Olin/Junior/Fall 2026/Eclectronics/Final Project/ul_BLM18PG221SN1D/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "Eclectronics") (type "KiCad") (uri "/Users/aidanschneider_1/Documents/Olin/Junior/Fall 2026/Eclectronics/MP3/mp3_fa2026/Eclectronics/Eclectronics.pretty") (options "") (descr ""))
+	(lib (name "barreljack") (type "KiCad") (uri "/Users/aidanschneider_1/Documents/Olin/Junior/Fall 2026/Eclectronics/Final Project/ul_PJ-063AH/KiCADv6/footprints.pretty") (options "") (descr ""))
+)
